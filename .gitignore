@@ -15,3 +15,6 @@ vendor/composer/autoload_real.php
 vendor/composer/autoload_static.php
 vendor/composer/ClassLoader.php
 vendor/composer/LICENSE
+/vendor/
+src/public/doc/Cv_E_GOUGELET_DevWeb.pdf
+src/public/doc/Cv_E_GOUGELET_DevWeb.pdf

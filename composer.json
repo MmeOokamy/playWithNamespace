@@ -1,19 +1,18 @@
 {
     "name": "nyx/play-with-namespace",
     "type": "project",
-    "license": "MIT",
     "authors": [
         {
             "name": "MmeOokamy",
             "email": "manue.ggt@gmail.com"
         }
     ],
-    "require": {
-        "ext-pdo": "*"
-    },
     "autoload": {
         "psr-4": {
-            "PWN\\": "src/"
+            "PWN\\": "src"
         }
+    },
+    "require": {
+      "ext-pdo": "*"
     }
 }
