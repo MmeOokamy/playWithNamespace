@@ -32,7 +32,7 @@ class Router
     public function run()
     {
         echo '<pre>';
-        echo print_r($this->routes);
+        echo "Je suis une chausette!";
         echo '</pre>';
     }
 }
